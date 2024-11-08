@@ -1,6 +1,6 @@
 Hi there, I'm Kevin 👋
 
-👨‍💻 Computer Science graduate from UTA with a passion for Software Development
+👨‍💻 Computer Science graduate from UTA with a passion for Software Development /n
 🌱 Currently expanding my skills in full-stack and backend development
 🤝 Open to collaborations on exciting projects and innovative tech solutions
 💬 Let's talk about Python, JavaScript, and CRM solutions!

@@ -1,9 +1,9 @@
-# Hi there, I'm Kevin 👋
+Hi there, I'm Kevin 👋
 
-I’m a Computer Science graduate at UTA with a keen interest in Software Development.
-
-🌱 I’m looking to expand my skills in web and backend development.  
-👯 I’m available for collaboration on projects and open-source contributions.  
-⚡ Fun fact: I love football and exploring tech communities!
+👨‍💻 Computer Science graduate from UTA with a passion for Software Development
+🌱 Currently expanding my skills in full-stack and backend development
+🤝 Open to collaborations on exciting projects and innovative tech solutions
+💬 Let's talk about Python, JavaScript, and CRM solutions!
+🌐 Connect with me to build, learn, and grow together in the tech world
 
 ![Coding life](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
